@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@tensorflow-models/knn-classifier": "^1.2.4"
+  },
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eleshinnla Taiwo, Popoola Daramola",
+  "license": "ISC",
+  "description": "A music genre classification software open source"
+}
